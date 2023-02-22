@@ -1,0 +1,7 @@
+---
+name: SimpleClan
+version: 0.0.1
+main: matheuss\SimpleClan\Main
+api: 4.14.0
+src-namespace-prefix: matheuss\SimpleClan
+...
